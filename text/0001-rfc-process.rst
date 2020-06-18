@@ -1,9 +1,9 @@
-..
-    Status: Active
-    Type: Process
-    Created: 2020-02-04
-    Authors: Łukasz Langa <lukasz@edgedb.com>
-    RFC PR: `edgedb/rfcs#0003 <https://github.com/edgedb/rfcs/pull/3>`_
+Status: Active
+Type: Process
+Created: 2020-02-04
+Authors: Łukasz Langa <lukasz@edgedb.com>
+RFC PR: `edgedb/rfcs#0003 <https://github.com/edgedb/rfcs/pull/3>`_
+
 
 =========================
 RFC 0001: The RFC Process
